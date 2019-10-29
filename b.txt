@@ -1,5 +1,2 @@
-salve
-ciao 
-hello
-12313
-asdad
+salve,
+sei uno scemo
